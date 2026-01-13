@@ -1,15 +1,36 @@
-<!-- ===== Header / Name ===== -->
-<h1 align="center">
-  <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<!-- ===== Header / Name (Boxed & Highlighted) ===== -->
+<div align="center"
+     style="
+       border: 2px solid #0A66C2;
+       border-radius: 12px;
+       padding: 18px;
+       max-width: 700px;
+       margin: auto;
+       background: linear-gradient(135deg, #f9fbff, #ffffff);
+       box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+     ">
+
+  <h1 style="
+      margin-bottom: 6px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      letter-spacing: 1px;
+    ">
     Mohammed Mubarak Alkalbani
-  </span>
-</h1>
+  </h1>
 
-<h2 align="center" dir="rtl" style="font-family: 'Cairo', 'Tajawal', sans-serif;">
-  محمد مبارك الكلباني
-</h2>
+  <h2 dir="rtl" style="
+      margin-top: 0;
+      margin-bottom: 10px;
+      font-family: 'Cairo', 'Tajawal', sans-serif;
+      color: #333;
+    ">
+    محمد مبارك الكلباني
+  </h2>
 
-<p align="center">
+</div>
+
+<!-- ===== Title / Tagline ===== -->
+<p align="center" style="margin-top: 18px;">
   <b>
     AI & Digital Transformation Solutions | Digital Marketing | E-Commerce Specialist <br/>
     Data-Driven Growth | Integrated Marketing Manager | Reputation Management <br/>
@@ -27,7 +48,6 @@ I'm <b>Mohammed Mubarak Alkalbani</b>, a <b>Senior Digital & Technical Leader</b
 scalable, data-driven solutions for modern businesses.
 <br/><br/>
 Based in 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="14"/> 
 <b>Saudi Arabia</b>
 </p>
 
