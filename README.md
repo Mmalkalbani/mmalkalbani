@@ -170,12 +170,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
-<hr/>
-
-<p align="center">
-<b>Building intelligent, scalable, and data-driven ecosystems for modern businesses.</b>
-</p>
 <h3 align="left">📊 إحصائياتي في البرمجة:</h3>
 
 <p align="center">
@@ -183,3 +177,9 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmalkalbani&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="46%" />
 </p>
+<hr/>
+
+<p align="center">
+<b>Building intelligent, scalable, and data-driven ecosystems for modern businesses.</b>
+</p>
+
