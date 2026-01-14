@@ -176,3 +176,10 @@
 <p align="center">
 <b>Building intelligent, scalable, and data-driven ecosystems for modern businesses.</b>
 </p>
+<h3 align="left">📊 إحصائياتي في البرمجة:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mmalkalbani&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Mmalkalbani's Github Stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmalkalbani&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="46%" />
+</p>
